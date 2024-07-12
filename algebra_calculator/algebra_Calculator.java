@@ -1,8 +1,7 @@
 package algebra_calculator;
 
-import java.util.Scanner;
-
 import java.util.Date;
+import java.util.Scanner;
 public class algebra_Calculator {
 
     public static void main(String[] args) {
@@ -107,10 +106,12 @@ public class algebra_Calculator {
             System.out.println("Invalid equation: 'a' cannot be zero.");
         }
     }
+    
 
     private static void simplifyExpression(Scanner scanner) {
         // Placeholder for simplifying expressions (requires further implementation)
         System.out.println("Simplifying expressions is not yet implemented.");
+        System.out.println("fffffffffffffffffffffff");
         System.out.println("Hello World");
     }
 }
