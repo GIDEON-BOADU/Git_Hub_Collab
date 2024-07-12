@@ -62,7 +62,7 @@ public class algebra_Calculator {
         System.out.println("Result: " + result);
     }
 
-    private static void performSubtraction(Scanner scanner) {
+    private static void performSubtraction(Scanner scaalgebra_calculatornner) {
         System.out.println("Enter two numbers to subtract:");
         double num1 = scanner.nextDouble();
         double num2 = scanner.nextDouble();
@@ -112,5 +112,6 @@ public class algebra_Calculator {
         // Placeholder for simplifying expressions (requires further implementation)
         System.out.println("Simplifying expressions is not yet implemented.");
         System.out.println("fffffffffffffffffffffff");
+        System.out.println("Hello World");
     }
 }
